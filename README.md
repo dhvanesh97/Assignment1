@@ -1,5 +1,5 @@
 # Assignment1
-### This is my first Assigment  
+### This is my first Assignment  
 In this assignment I got a brief idea about the following things:  
 1. Web Architectural Modals  
     * classic
