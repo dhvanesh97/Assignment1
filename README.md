@@ -1,6 +1,6 @@
 # Assignment1
 ### This is my first Assigment  
-In this assigment I got a brief idea about the following things:  
+In this assignment I got a brief idea about the following things:  
 1. Web Architectural Modals  
     * classic
     * Modern
@@ -10,6 +10,10 @@ In this assigment I got a brief idea about the following things:
     * Nodejs and Expressjs -> _Backend Framework_
 
 3. About Version Controlling tool **GitHub**
+
+> and at last a little bit about Sass
+
+
 
 
 
